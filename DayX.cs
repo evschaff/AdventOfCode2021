@@ -28,7 +28,7 @@ namespace AdventOfCode2021
         [TestMethod]
         public void Part1()
         {
-            var inputs = this.GetInputs();
+            // var inputs = this.GetInputs();
 
             // Debug.WriteLine();
         }
@@ -36,7 +36,7 @@ namespace AdventOfCode2021
         [TestMethod]
         public void Part2()
         {
-            var inputs = this.GetInputs();
+            // var inputs = this.GetInputs();
 
             // Debug.WriteLine();
         }
